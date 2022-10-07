@@ -1,6 +1,6 @@
 ### Olá! eu sou Ronei Cruz🖖🏾😁
 
-- 🔭 Atualmente estou como estágiario.
+- 🔭 Atualmente estou como estagiário.
 - 👨🏾‍🎓 Estou estudando Bacharelado em Engenharia de Software.
 - ⚡ Fun fact: Estou migrando de área de Logistica para TI.
 
