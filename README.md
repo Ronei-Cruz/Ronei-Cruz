@@ -22,7 +22,10 @@
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="SQLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
-  <img align="center" alt="Angular" height="30" width="40" src="/show/452156/angular.svg" />
+  <img align="center" alt="Angular" height="30" width="40" src="https://www.svgrepo.com/show/452156/angular.svg" />
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://www.svgrepo.com/show/354478/typescript-icon.svg" />
+  <img align="center" alt="CSS" height="30" width="40" src="https://www.svgrepo.com/show/373535/css.svg" />
+  <img align="center" alt="Bootstrap" height="30" width="40" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" />
                                                                                              
 
 
