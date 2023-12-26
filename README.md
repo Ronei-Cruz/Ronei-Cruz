@@ -1,7 +1,7 @@
 ### Olá! eu sou Ronei Cruz🖖🏾😁
 
 - 🔭 Atualmente estou como Desenvolvedor Back-end com C# | .NET.
-- 👨🏾‍🎓 Estou estudando Bacharelado em Engenharia de Software.
+- 👨🏾‍🎓 Formado em Bacharelado em Engenharia de Software.
 - ⚡ Fun fact: Estou migrando de área de Logistica para TI.
 - https://ronei-cruz.github.io/cv_dio/
 
